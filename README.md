@@ -1,4 +1,4 @@
-# Artefak Script Untuk KINK NAUFAL dan Kawan Kawan nya
+# Artefak Script Untuk Kawan Kawan nya KINK BAGINDA FIQRI SETIAWAN CDE CHILLER
 
 # Monitoring Kalibrasi KM
 
