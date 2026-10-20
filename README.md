@@ -1,5 +1,3 @@
-# Kink Fiqri Pernah Di Sini
-
 # Monitoring Kalibrasi KM
 
 Web App internal berbasis Google Apps Script dan Google Sheets untuk mengelola pengajuan, pemantauan, analitik, serta administrasi proses kalibrasi kilometer armada. Aplikasi menyediakan autentikasi mandiri, pembatasan akses berbasis peran dan Operating Point, histori perubahan yang dapat diaudit, serta alat pemeliharaan database.
